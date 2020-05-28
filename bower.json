@@ -1,0 +1,17 @@
+{
+  "name": "demo-bower",
+  "version": "1.0.1",
+  "authors": [
+    "Le Tuan <letuan1999@gmail.com>"
+  ],
+  "description": "Framgia standard demo Bower",
+  "main": "/",
+  "keywords": [
+    "fonticons"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/letuan1999v5/eco-bower",
+  "ignore": [
+    "README.md"
+  ]
+}
